@@ -1,5 +1,7 @@
 # PDF Answering Website with Gemini, LangChain, and Streamlit
 
+Video Demo Link: https://www.loom.com/share/7d9b896393de4640a493117c67919420?sid=f0ed0342-81d0-452c-8d71-cb52ac9c6ccd
+
 ## Steps to Run Code
 
 ### 1. Activate Virtual Environment
