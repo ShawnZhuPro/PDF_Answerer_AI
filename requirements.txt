@@ -1,0 +1,13 @@
+streamlit
+langchain
+PyPDF2
+faiss-cpu
+tiktoken
+langchainhub
+langchain-community
+google-generativeai
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+google-cloud-aiplatform
+python-dotenv
